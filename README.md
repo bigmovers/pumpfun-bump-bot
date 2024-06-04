@@ -27,4 +27,8 @@ Here's a sneak peek of what's included:
 
 ## How to Get Access
 
-**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**: [@benoriz0](https://t.me/benoriz0)
+**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**:  
+
+[benorizz0](https://t.me/benorizz0) **(ACTIVE)**
+
+[@benoriz0](https://t.me/benoriz0) (SUSPENDED TEMPORARY)
