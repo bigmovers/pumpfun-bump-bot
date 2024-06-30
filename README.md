@@ -3,7 +3,7 @@ Bump up your Pump.Fun project with random buys from different keypairs every sec
 This super simple yet effective and efficient tool is designed to ensure the success of your Pump.Fun launches. The bump bot concept is straightforward—spam buys with different keypairs at custom amounts to boost your launch to the front page of Pump.Fun.
 
 
-**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**: [@benoriz0](https://t.me/benoriz0)
+**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**: [@benorizz0](https://t.me/benorizz0)
 
 ## Features
 
@@ -31,4 +31,4 @@ Here's a sneak peek of what's included:
 
 [benorizz0](https://t.me/benorizz0) **(ACTIVE)**
 
-[@benoriz0](https://t.me/benoriz0) (SUSPENDED TEMPORARY)
+
